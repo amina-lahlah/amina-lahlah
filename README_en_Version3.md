@@ -26,8 +26,7 @@ AI intern at [Seelab.ai](https://seelab.ai). I contribute to development and dep
 - PyTorch, TensorFlow, scikit‑learn
 
 **Languages & GPU**
-- Python, R, C, CUDA, Java/JavaFX, Assembly, HTML, CSS, WhyML  
-- SQL (learning)
+- Python, R, C, CUDA,
 
 **Data & visualization**
 - pandas, NumPy, Matplotlib, Seaborn
@@ -51,7 +50,6 @@ AI intern at [Seelab.ai](https://seelab.ai). I contribute to development and dep
    - Role: author  
    - Tech: PyTorch, OpenAI Gym, RL
 
-(I can add screenshots, training metrics, or run instructions if you provide details or confirm what to show.)
 
 ---
 
@@ -62,8 +60,7 @@ I regularly join hackathons — recent examples:
 - Orange Think & Pitch — AI to improve customer relations (October 2025)  
 - AGrennDEfi — AI for agriculture (September 2025)
 
-Tell me if you want team details, awards, or project links added.
-
+  
 ---
 
 ## 📫 Contact
@@ -71,14 +68,3 @@ Tell me if you want team details, awards, or project links added.
 - LinkedIn: [Amina LAHLAH](https://www.linkedin.com/in/amina-lahlah-638b64267)  
 - GitHub: [github.com/amina-lahlah](https://github.com/amina-lahlah)
 
----
-
-## How to add this to your GitHub profile
-1. Create a repository named exactly `amina-lahlah` (https://github.com/new).  
-2. Add this file `README_en.md` (or paste its content into README.md).  
-3. Push via the web UI or git (git add, commit, push). The repository README will appear on your profile page automatically.
-
-Would you like me to:
-- generate ready-to-copy Shields.io badges for each repo,  
-- add GitHub README stats cards, or  
-- produce run / reproduce commands (train/inference) for the two projects?
