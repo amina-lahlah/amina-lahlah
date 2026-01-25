@@ -1,4 +1,4 @@
-# Hello — I'm Amina LAHLAH 👋
+# Hello, I'm Amina LAHLAH 👋
 
 > Final year Master 2 student in Artificial Intelligence with strong foundations in designing AI solutions and technical expertise developed during an alternance. Available from September 2026 for an AI Engineer or Data Scientist role.
 
