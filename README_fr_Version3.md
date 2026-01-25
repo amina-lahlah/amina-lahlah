@@ -1,4 +1,4 @@
-# Bonjour — je suis Amina LAHLAH 👋
+# Bonjour, je suis Amina LAHLAH 👋
 
 > En fin de Master 2 en intelligence artificielle, avec de solides bases en conception de solutions IA et une forte expertise technique développée en alternance. Disponible à partir de septembre 2026 pour un poste d’Ingénieure IA ou Data Scientist.
 
@@ -26,8 +26,7 @@ Alternante en IA chez [Seelab.ai](https://seelab.ai). J'interviens sur le dével
 - PyTorch, TensorFlow, scikit‑learn
 
 **Langages & GPU**
-- Python, R, C, CUDA, Java/JavaFX, Assembleur, HTML, CSS, WhyML  
-- SQL (formation en cours)
+- Python, R, C, CUDA
 
 **Données & visualisation**
 - pandas, NumPy, Matplotlib, Seaborn
@@ -51,8 +50,6 @@ Alternante en IA chez [Seelab.ai](https://seelab.ai). J'interviens sur le dével
    - Rôle : auteur  
    - Tech : PyTorch, OpenAI Gym, RL
 
-(Si vous le souhaitez, j'ajoute captures d'écran, métriques d'entraînement ou commandes pour reproduire les expérimentations.)
-
 ---
 
 ## 🧩 Hackathons & compétitions
@@ -62,8 +59,6 @@ J'aime participer aux hackathons — exemples récents :
 - Orange Think & Pitch — IA pour améliorer la relation client (octobre 2025)  
 - AGrennDEfi — IA pour l'agriculture (septembre 2025)
 
-Dites-moi si vous voulez que j'ajoute les membres de l'équipe, prix remportés ou captures/projets associés.
-
 ---
 
 ## 📫 Contact
@@ -72,10 +67,3 @@ Dites-moi si vous voulez que j'ajoute les membres de l'équipe, prix remportés 
 - GitHub : [github.com/amina-lahlah](https://github.com/amina-lahlah)
 
 ---
-
-## Comment l'ajouter sur votre profil GitHub
-1. Créez un dépôt nommé exactement `amina-lahlah` (via https://github.com/new).  
-2. Ajoutez ce fichier `README_fr.md` (ou copiez le contenu dans le README.md si vous préférez un seul fichier).  
-3. Poussez via l'interface web ou git (git add, commit, push). Le README du dépôt apparaîtra automatiquement sur votre profil.
-
-Souhaitez-vous que je génère aussi : badges (Shields.io), cartes de stats GitHub, captures d'écran intégrées, ou une version courte pour l'affichage mobile ?
