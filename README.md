@@ -1,8 +1,7 @@
 # Hello, I'm Amina LAHLAH 👋
 
 > **AI Engineer & Master's Student in Artificial Intelligence**
-> Driven by bridging the gap between advanced ML research and production-ready systems. Experiencing the full AI lifecycle—from data curation to fine-tuning and deployment. 
-> 🎯 Looking for an **AI Engineer** or **Data Scientist** role starting **September 2026**.
+> Hands-on experience in developing and optimizing end-to-end AI solutions. I master the entire AI project lifecycle, from conception to production deployment. Actively looking for an **AI Engineer** or **Data Scientist** role starting **September 2026**.
 
 ---
 
