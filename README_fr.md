@@ -1,7 +1,10 @@
 # Bonjour, je suis Amina LAHLAH 👋
 
 > **Ingénieure en Intelligence Artificielle & Étudiante en Master IA**
-> Passionnée par la passerelle entre la recherche en Machine Learning et le déploiement en production. J'interviens sur l'ensemble du cycle de projet IA : de la curation de données jusqu'au fine-tuning et à la mise en production.
+ 
+> J'ai une expérience pratique en développement et optimisation de solutions IA de bout en bout. Je maîtrise le cycle de projet IA, de la conception à la mise en production. À la recherche d'un poste d'**Ingénieure IA**/ **Data Scientist** à partir de **Septembre 2026**.
+
+---
 > 🎯 À la recherche d'un poste d'**Ingénieure IA** ou **Data Scientist** à partir de **Septembre 2026**.
 
 ---
