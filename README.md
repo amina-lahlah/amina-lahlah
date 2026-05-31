@@ -1,70 +1,74 @@
 # Hello, I'm Amina LAHLAH 👋
 
-> Final year Master 2 student in Artificial Intelligence with strong foundations in designing AI solutions and technical expertise developed during an alternance. Available from September 2026 for an AI Engineer or Data Scientist role.
+> **AI Engineer & Master's Student in Artificial Intelligence**
+> Driven by bridging the gap between advanced ML research and production-ready systems. Experiencing the full AI lifecycle—from data curation to fine-tuning and deployment. 
+> 🎯 Looking for an **AI Engineer** or **Data Scientist** role starting **September 2026**.
 
 ---
 
 ## 🚀 About me
-AI intern at [Seelab.ai](https://seelab.ai). I contribute to development and deployment of ML models and production pipelines. I enjoy solving real-world problems by combining scientific rigor and pragmatic engineering.
+Currently an **AI Engineer Apprentice** at [Seelab.ai](https://seelab.ai), where I optimize generative models and build computer vision pipelines. My academic foundation spans intensive mathematics at ESI Algiers and advanced AI at the University of Rennes. 
 
-- 🔭 Current: AI intern — Seelab.ai  
-- 🎓 Education: Master 2 in Artificial Intelligence (final year)  
-- 📆 Availability: from September 2026  
-- ⚡ Interests: NLP, diffusion models, reinforcement learning, multi‑objective optimization
+I enjoy solving complex problems under production constraints, with a particular interest in **Generative AI, MLOps, and Computer Vision**. Beyond engineering, I am a regular hackathon competitor and technical community contributor.
 
----
-
-## 🛠 Key skills
-
-**AI & Machine Learning**
-- NLP: tokenization, encoder‑decoder architectures (LSTM), Transformers  
-- Reinforcement Learning: PPO implementation (Proximal Policy Optimization)  
-- Diffusion models, multi‑objective optimization (PyMOO)  
-- Supervised & unsupervised ML
-
-**Frameworks & libraries**
-- PyTorch, TensorFlow, scikit‑learn
-
-**Languages & GPU**
-- Python, R, C, CUDA,
-
-**Data & visualization**
-- pandas, NumPy, Matplotlib, Seaborn
-
-**Tools & environments**
-- Linux, GPUs (CUDA), OpenAI Gym
+- 💼 **Current:** AI Engineer Apprentice — Seelab.ai
+- 🎓 **Education:** Master in Artificial Intelligence — University of Rennes | ESI Algiers Alumna
+- 📆 **Availability:** Full-time AI Engineer roles from September 2026
+- 📍 **Mobility:** France (Metropolitan)
 
 ---
 
-## 🌟 Favorite projects
+## 🛠 Tech Stack & Skills
 
-1. Seq2Seq Translation EN ↔ FR  
-   - Description: English ↔ French translator (Seq2Seq / Transformers).  
-   - Repo: https://github.com/amina-lahlah/Seq2Seq-Translation-EN-FR  
-   - Role: author / maintainer  
-   - Tech: Python, PyTorch, tokenization, attention
-
-2. PPO for LunarLander  
-   - Description: PPO implementation to train an agent on the LunarLander environment (OpenAI Gym).  
-   - Repo: https://github.com/amina-lahlah/PPO_LunarLanders  
-   - Role: author  
-   - Tech: PyTorch, OpenAI Gym, RL
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <center><h3>🧠 AI & Generative Models</h3></center>
+      <ul>
+        <li><b>NLP & LLMs:</b> Transformers, LoRA (PEFT), DPO Alignment, GPT-Neo</li>
+        <li><b>GenAI & Agents:</b> Agentic AI, LangChain, LangGraph, RAG</li>
+        <li><b>Computer Vision:</b> Diffusion Models, nnU-Net, Segmentation (IoU), OpenCV</li>
+        <li><b>Reinforcement Learning:</b> PPO, OpenAI Gym, Genetic Algorithms (PyMOO)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <center><h3>⚙️ Engineering & MLOps</h3></center>
+      <ul>
+        <li><b>Languages:</b> Python, C, R, SQL, Java</li>
+        <li><b>Frameworks:</b> PyTorch, TensorFlow, Scikit-Learn, Stable Baselines</li>
+        <li><b>Infrastructure & MLOps:</b> Linux, CUDA (GPU Optimization), Google Cloud Platform (GCP), Weights & Biases</li>
+        <li><b>Data & XAI:</b> UMAP Clustering, XAI (SHAP, LIME), Pandas, NumPy</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🧩 Hackathons & competitions
-I regularly join hackathons — recent examples:
-- ActInSpace — AI applied to space-related problems (January 2026)  
-- Rennes Data Challenge — AI for a finance problem using RL and genetic algorithms (January 2026)  
-- Orange Think & Pitch — AI to improve customer relations (October 2025)  
-- AGrennDEfi — AI for agriculture (September 2025)
+## 🌟 Featured Projects
 
-  
+### 🧠 [Fine-tuning & LLM Alignment](https://github.com/amina-lahlah/fine-tuning-llm-project/tree/main)
+* **Description:** Fine-tuned and aligned a GPT-Neo model on 210k samples using **LoRA** and **DPO** to build an instruction-following assistant. Designed a custom inference engine that slashed hallucinations and generation loops by 50%.
+* **Tech Stack:** Python, PyTorch, LoRA, DPO, NLP.
+
+### 🚀 [PPO for LunarLander](https://github.com/amina-lahlah/PPO_LunarLanders/tree/main)
+* **Description:** Implementation of the Proximal Policy Optimization (**PPO**) algorithm from scratch in PyTorch. Optimized the actor-critic architecture and reward function to achieve stable landing (average score >200 over 100 episodes) in OpenAI Gym.
+* **Tech Stack:** PyTorch, OpenAI Gym, Reinforcement Learning.
+
+### 🩻 [Stroke Lesion Segmentation & Anomaly Detection]() *(Local Repo)*
+* **Description:** Developed a medical imaging pipeline using **nnU-Net** and **THOR (DDPM)**, reaching a 0.8 Dice score on stroke lesion segmentation. Automated MRI preprocessing via Anima Toolkit and analyzed the 128D latent space using PCA and t-SNE.
+* **Tech Stack:** nnU-Net, DDPM, NiBabel, Anima Toolkit.
+
 ---
 
-## 📫 Contact
-- Email: [aminalahlah.m@gmail.com](mailto:aminalahlah.m@gmail.com)  
-- LinkedIn: [Amina LAHLAH](https://www.linkedin.com/in/amina-lahlah-638b64267)  
-- GitHub: [github.com/amina-lahlah](https://github.com/amina-lahlah)
+## 🧩 Hackathons & Leadership
+* **Rennes Data Challenge (Jan 2026):** Team Lead — developed an ESG portfolio optimizer using Reinforcement Learning and genetic algorithms (PyMOO).
+* **Orange "Think & Pitch" Hackathon (Oct 2025):** Designed and pitched an Agentic AI solution for customer relations within 24 hours ([View Certificate](https://drive.google.com/file/d/1c2obOqZH9kJl-NKt8hQdBIGMnmUtZJhK/view)).
+* **Community:** Master's Program Representative at the Rennes Student Fair (2025) | Former Head of HR at ESI's Artistic & Cultural Club.
 
+---
+
+## 📫 Connect with me
+* 📧 **Email:** [aminalahlah.m@gmail.com](mailto:aminalahlah.m@gmail.com)
+* 💼 **LinkedIn:** [Amina LAHLAH](https://www.linkedin.com/in/amina-lahlah/)
+* 🌐 **Location:** Nantes / Rennes — Mobile across France
